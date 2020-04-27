@@ -1,5 +1,5 @@
 {
-  "name": "axios_api_test",
+  "name": "automacao-teste-api-axios",
   "version": "1.0.0",
   "description": "Estudo de teste automatizado de api com axios ",
   "main": "index.js",
